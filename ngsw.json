@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1613793647016,
+  "timestamp": 1613793877119,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.d9a14bd9c03f51ef1aa8.js",
+        "/main.45f0d2118a2124ac747b.js",
         "/manifest.webmanifest",
         "/polyfills.d15628b9ba7248669cd9.js",
         "/runtime.7b63b9fd40098a2e8207.js",
-        "/styles.61360a901be2024b3b0c.css"
+        "/styles.ac68e1bbd02dc441c5a0.css"
       ],
       "patterns": []
     },
@@ -58,14 +58,14 @@
     "/home-taxi.e9b83a60d3d51d0da90a.jpg": "8a8490594fcf81ebeb4ad4910c9e88ea7c50b335",
     "/icon-close.d53273f6911c12cfc4b7.png": "ff5fa13f6623597717f427e2d7d5c343660f3293",
     "/icon-refresh.fffe24b3b7ded0ca4e44.png": "dfcf4eb9133fdd9631d2e53743b8efa4606ac93d",
-    "/index.html": "cec1ae3d7ffd54a0748396eca5e152a72d0cf87c",
-    "/main.d9a14bd9c03f51ef1aa8.js": "d0a12ba2ab535bffed3c885ac178b71b24240916",
+    "/index.html": "b92d4a9c83056d95559924944f1333ee0b819c12",
+    "/main.45f0d2118a2124ac747b.js": "cb28b5fc7fac477e1b1de43a6bffbdd8f1fa97ba",
     "/manifest.webmanifest": "eaee7feb72e59d69e4c02365b7bd1da66b2edc4d",
     "/onboard-scan-qr.b0731387e23309389732.png": "12a7abd2af7192a84b474beecf66e23634a7c4e5",
     "/polyfills.d15628b9ba7248669cd9.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "/qr-code.51fd08db7b019c601d4b.png": "960f5af989a29832de5259575f4f68f207fcaf06",
     "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.61360a901be2024b3b0c.css": "d1a2e5be405a649c6480c47db46b179a23561727",
+    "/styles.ac68e1bbd02dc441c5a0.css": "ad26379b3ef4948b970c6b80236626335ae03dde",
     "/tabicons-icon-home-selected.1bdd8ca6546d9f321cc3.png": "8d9bb59ae0235d8d92a49c531f16246922b4d462",
     "/tabicons-icon-home.38463e22a862806c3d55.png": "bea6f6623937a8641c7f66c03e591dafce97abe8",
     "/tabicons-icon-inbox-selected.df9b403e8587dca11790.png": "71cd4ab66d104da6d04bbd77e7675cef0d602b28",
