@@ -1,8 +1,8 @@
 {
-  "name": "left-home-safe",
-  "short_name": "left-home-safe",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "name": "Left Home Safe",
+  "short_name": "Left Home Safe",
+  "theme_color": "#12b188",
+  "background_color": "#12b188",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
